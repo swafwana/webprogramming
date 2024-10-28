@@ -1,0 +1,23 @@
+button{
+    color:#74439c;
+    background-color:#d1bfe0
+}
+#para1{
+    background-color:rgb(9, 30, 49);
+    color:rgb(247, 238, 253)
+}
+#para2{
+    background-color: rgb(188, 118, 27);
+    color:azure
+}
+.content{
+    color:rgb(32, 6, 56)
+}
+div{
+    width:500px;
+    height:400px;
+    background-color:rgb(118, 19, 19);
+    margin:3px;
+    padding:4px;
+    color:black
+}
